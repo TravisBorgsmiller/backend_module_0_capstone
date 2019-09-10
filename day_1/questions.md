@@ -12,9 +12,10 @@ animal = "zebra"
 p animal
 1. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 Interpolation inserts variables into a string using the "#" key.
-p "Jeff saw a #{zebra} at the zoo"
+animal = "zebra"
+p "Jeff saw a #{animal} at the zoo"
 1. How do we get input from a user? What is the method that we would use?
 gets is the method we would use to get user feedback
 1. Name and describe two common string methods.
 The length method gives you the number of characters in a string.
-The slice method gives you a copy of part of the string using index numbers. 
+The slice method gives you a copy of part of the string using index numbers.
