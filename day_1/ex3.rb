@@ -1,14 +1,16 @@
+#prints string
 puts "I will now count my chickens:"
-
+#prints calculation  of number of hens
 puts "Hens #{25 + 30/6}"
+#prints calculation of number of roosters
 puts "Roosters #{100 - 25 * 3 % 4}"
-
+#prints string
 puts "Now I will count the eggs:"
-
+#prints calculation
 puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
-
+#prints string
 puts "Is it true that 3 + 2 < 5 - 7?"
-
+#prints calculation 
 puts 3 + 2 < 5 - 7
 
 puts "What is 3 + 2? #{3 + 2}"
