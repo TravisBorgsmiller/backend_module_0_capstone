@@ -21,3 +21,6 @@ puts "There will be #{cars_not_driven} empty cars today."
 puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
+
+#Study Drill
+#On line 14, a variable was probably declared but not set to anything resulting in the error
