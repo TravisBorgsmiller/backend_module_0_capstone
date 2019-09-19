@@ -1,7 +1,7 @@
 Caesar Cipher
 
 1. Get input from user   
-    1. Find code that would be similar to .chomp for user input   
+  1. Find code that would be similar to .chomp for user input   
       1. Ask for string text   
       1. Ask for cipher shift number  
       1. Ask for cipher shift direction   
